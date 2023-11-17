@@ -1,8 +1,8 @@
 ### Olá me Chamo Felipe Sanguino, Seja bem-vindo(a) ao meu perfil!👋 
 
- `Engineering Background`: - Graduado em Engenharia da Computação pela Universidade Etep Faculdades `(Brazil)`
+ `Engineering Background`: - Graduado em Engenharia da Computação pela Universidade Etep Faculdades  (6 Semestres) `(Brazil)`
 
- `Technology Background`: - Análise e Desenvolvimento de Sistemas - Iniciando Curso janeiro 2024 – FIAP `(Brazil)`
+ `Technology Background`: - Análise e Desenvolvimento de Sistemas - Iniciando Janeiro 2024 – FIAP `(Brazil)`
     
 - 💬 About me:
    - Vivencia de 2 anos em desenvolvimento Java 8 e aplicações Web, CSS3, HTML,
