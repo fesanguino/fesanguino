@@ -3,7 +3,7 @@
   
   Desenvolvedor Front-End |
 - 🌱 <ins>Current stacks:</ins> <br>
-  - Main skills: `HTML, CSS, JavaScript, Bootstrap, REST APIs, React|Vite, Node.js`. <br>
+  - Main skills: `HTML, CSS, JavaScript, Bootstrap, REST APIs, Node.js`. <br>
   - Learning about: `SQL, C#, ASP.NET Core`.
 - 💬 <ins>About me:</ins> <br>
 
