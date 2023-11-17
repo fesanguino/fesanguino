@@ -7,12 +7,12 @@
 - 💬 About me:
    - Vivencia de 2 anos em desenvolvimento Java 8 e aplicações Web, CSS3, HTML,
      Maven, Git, Spring Boot, Bootstrap, C#, SQL, Esteira Bamboo.
-     Utilizando ferramentas Visual Studio,Eclipese e SQL. Análisando código-fonte, testes e
+     Utilizando ferramentas Visual Studio,Eclipse e SQL. Analisando código-fonte, testes e
      correções de programas desenvolvidos, validação de softwares, geração de atualizações e certificações do sistema.
 
 - 🌱 <ins>Current skills</ins> <br>
 
-  - Main skills: `HTML, CSS, JavaScript, Bootstrap, REST APIs, Node.js`. <br>
+  - Main skills: `HTML, CSS,C#, JavaScript, Bootstrap, REST APIs, Node.js`. <br>
   
   - Learning about: `SQL, C#, ASP.NET Core`.
 
