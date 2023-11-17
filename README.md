@@ -1,4 +1,4 @@
-### Olá me Chamo Felipe Sanguino,Seja bem-vindo(a) ao meu perfil!👋 
+### Olá me Chamo Felipe Sanguino, Seja bem-vindo(a) ao meu perfil!👋 
 
 - 💬 About me: Vivencia de 2 anos em desenvolvimento Java 8 e aplicações Web, CSS3, HTML,
      Maven, Git, Spring Boot, Bootstrap, C#, SQL, Esteira Bamboo.
