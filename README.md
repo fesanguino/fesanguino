@@ -1,11 +1,13 @@
 ### Olá me Chamo Felipe Sanguino, Seja bem-vindo(a) ao meu perfil!👋 
 
-  
-  Desenvolvedor Front-End |
-- 🌱 <ins>Current stacks:</ins> <br>
+- 🌱 <ins>current skills</ins> <br>
   - Main skills: `HTML, CSS, JavaScript, Bootstrap, REST APIs, Node.js`. <br>
   - Learning about: `SQL, C#, ASP.NET Core`.
-- 💬 <ins>About me:</ins> <br>
+- 💬 About me: Vivencia de 2 anos em desenvolvimento Java 8 e aplicações Web, CSS3, HTML,
+Maven, Git, Spring Boot, Bootstrap, C#, SQL, Esteira Bamboo. Utilizando
+ferramentas comoVisual Studio,Eclipese, SQL. Análisando código-fonte, testes e
+correções de programas desenvolvidos, validação de softwares, geração de
+atualizações e certificações do sistema.
 
 ### 🚀 Technologies 
 
@@ -27,4 +29,4 @@
 
 ### 📄 My Resume 
     
-🔗 <a href="https://drive.google.com/file/d/1fY2nzsIRjyF_GGir2WKSjXtTiYVahr6a/view?usp=sharing" target="_blank">English Version<a/>
+🔗 <a href="https://drive.google.com/file/d/1fY2nzsIRjyF_GGir2WKSjXtTiYVahr6a/view?usp=sharing" target="_blank">Português Version<a/>
