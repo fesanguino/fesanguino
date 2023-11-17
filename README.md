@@ -1,6 +1,11 @@
 ### Olá me Chamo Felipe Sanguino, Seja bem-vindo(a) ao meu perfil!👋 
 
-- 💬 About me: Vivencia de 2 anos em desenvolvimento Java 8 e aplicações Web, CSS3, HTML,
+ `Engineering Background`: - Graduado em Engenharia da Computação pela Universidade Etep Faculdades `(Brazil)`
+
+ `Technology Background`: - Análise e Desenvolvimento de Sistemas - Iniciando Curso janeiro 2024 – FIAP `(Brazil)`
+    
+- 💬 About me:
+   - Vivencia de 2 anos em desenvolvimento Java 8 e aplicações Web, CSS3, HTML,
      Maven, Git, Spring Boot, Bootstrap, C#, SQL, Esteira Bamboo.
      Utilizando ferramentas Visual Studio,Eclipese e SQL. Análisando código-fonte, testes e
      correções de programas desenvolvidos, validação de softwares, geração de atualizações e
@@ -12,6 +17,18 @@
   
   - Learning about: `SQL, C#, ASP.NET Core`.
 
+
+### 📈 Github Stats
+
+<div>
+  <a href="https://github.com/fesanguino">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fesanguino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fesanguino&layout=compact&langs_count=7&theme=dark"/>
+</div> <!--<br>-->
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=renato-albuquerque&theme=dark)](https://git.io/streak-stats) -->
+
+##
 
 ### 🚀 Technologies 
 
