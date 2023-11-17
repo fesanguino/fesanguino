@@ -1,22 +1,30 @@
-### Olá me Chamo Felipe Sanguino, Seja bem-vindo(a) ao meu perfil!👋 
+### Olá me Chamo Felipe Sanguino,Seja bem-vindo(a) ao meu perfil!👋 
 
-- 🌱 <ins>current skills</ins> <br>
-  - Main skills: `HTML, CSS, JavaScript, Bootstrap, REST APIs, Node.js`. <br>
-  - Learning about: `SQL, C#, ASP.NET Core`.
 - 💬 About me: Vivencia de 2 anos em desenvolvimento Java 8 e aplicações Web, CSS3, HTML,
-Maven, Git, Spring Boot, Bootstrap, C#, SQL, Esteira Bamboo. Utilizando
-ferramentas comoVisual Studio,Eclipese, SQL. Análisando código-fonte, testes e
-correções de programas desenvolvidos, validação de softwares, geração de
-atualizações e certificações do sistema.
+     Maven, Git, Spring Boot, Bootstrap, C#, SQL, Esteira Bamboo.
+     Utilizando ferramentas Visual Studio,Eclipese e SQL. Análisando código-fonte, testes e
+     correções de programas desenvolvidos, validação de softwares, geração de atualizações e
+     certificações do sistema.
+
+- 🌱 <ins>Current skills</ins> <br>
+
+  - Main skills: `HTML, CSS, JavaScript, Bootstrap, REST APIs, Node.js`. <br>
+  
+  - Learning about: `SQL, C#, ASP.NET Core`.
+
 
 ### 🚀 Technologies 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Feli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Feli-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="icon-Bootstrap" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Feli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Feli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Feli-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="icon-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="icon-Github" height="33" width="43" src="https://skillicons.dev/icons?i=github">
+  <img align="center" alt="icon-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="icon-SQL" height="33" width="43" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/sql-server-5410224-4543401.png?f=avif&w=256"> 
 </div>
 
 ### ☎️ Contact me 
