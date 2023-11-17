@@ -53,4 +53,4 @@
 
 ### 📄 My Resume 
     
-🔗 <a href="https://drive.google.com/file/d/1fY2nzsIRjyF_GGir2WKSjXtTiYVahr6a/view?usp=sharing" target="_blank">Português Version<a/>
+🔗
