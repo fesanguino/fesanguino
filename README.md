@@ -8,8 +8,7 @@
    - Vivencia de 2 anos em desenvolvimento Java 8 e aplicações Web, CSS3, HTML,
      Maven, Git, Spring Boot, Bootstrap, C#, SQL, Esteira Bamboo.
      Utilizando ferramentas Visual Studio,Eclipese e SQL. Análisando código-fonte, testes e
-     correções de programas desenvolvidos, validação de softwares, geração de atualizações e
-     certificações do sistema.
+     correções de programas desenvolvidos, validação de softwares, geração de atualizações e certificações do sistema.
 
 - 🌱 <ins>Current skills</ins> <br>
 
