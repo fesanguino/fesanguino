@@ -1,9 +1,6 @@
-### Olá me Chamo Felipe Sanguino👋
-
-## Oiii eu sou Felipe Sanguino, Desenvolvedor Front-End 
+### Olá me Chamo Felipe Sanguino, Desenvolvedor Front-End 👋
 
 Atualmente estudando Linguagem c# com .NET, estou a procura de novas oportunidades para me consolidar no mercado.
-
 
 
 <div style="display: inline_block"><br>
