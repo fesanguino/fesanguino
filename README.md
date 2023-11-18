@@ -12,7 +12,7 @@
 
 - 🌱 <ins>Current skills</ins> <br>
 
-  - Main skills: `HTML, CSS,C#, JavaScript, Bootstrap, REST APIs, Node.js`. <br>
+  - Main skills: `HTML,CSS,C#, JavaScript,Bootstrap,Spring Boot`. <br>
   
   - Learning about: `SQL, C#, ASP.NET Core`.
 
@@ -39,7 +39,7 @@
   <img align="center" alt="icon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="icon-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="icon-Github" height="33" width="43" src="https://skillicons.dev/icons?i=github">
-  <img align="center" alt="icon-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  
   <img align="center" alt="icon-SQL" height="33" width="43" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/sql-server-5410224-4543401.png?f=avif&w=256"> 
 </div>
 
