@@ -12,7 +12,7 @@
 
 - 🌱 <ins>Current skills</ins> <br>
 
-  - Main skills: `HTML,CSS,C#, JavaScript,Bootstrap,Spring Boot`. <br>
+  - Main skills: `HTML,CSS,C#,JavaScript,Bootstrap,Spring Boot`. <br>
   
   - Learning about: `SQL, C#, ASP.NET Core`.
 
