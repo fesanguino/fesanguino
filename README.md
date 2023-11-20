@@ -54,3 +54,14 @@
 ### 📄 My Resume 
     
 🔗
+
+Experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://sis-it.com/_ipx/w_1056&q_100/https://imgsitesis.blob.core.windows.net/imgsitesis/4a4ec372-2808-43db-8499-e5c9e50f95e1.webp"/>](https://sis-it.com/)
+
+**Software Engineer** \
+[**SIS INNOV & TECH**](https://sis-it.com//) • Full-time \
+Competências: C (linguagem de programação) · Java · Programação orientada a objetos (POO) · HTML · Suporte técnico · Formulários · Desenvolvimento de software · Qualidade de software · Testes · Banco de dados · C# · JavaScript
+<br/>
+
+
