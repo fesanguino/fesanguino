@@ -2,7 +2,7 @@
 
  `Engineering Background`: - Graduado em Engenharia da Computação pela Universidade Etep Faculdades (Concluída)`(Brazil)`
 
- `Technology Background`: - Análise e Desenvolvimento de Sistemas - Iniciando Janeiro 2024 – FIAP `(Brazil)`
+ `Technology Background`: - Análise e Desenvolvimento de Sistemas - Iniciando – FIAP `(Brazil)`
 
  <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
     
