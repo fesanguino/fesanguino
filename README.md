@@ -62,6 +62,12 @@ Experiência de trabalho mais recente:
 **Software Engineer** \
 [**SIS INNOV & TECH**](https://sis-it.com//) • Full-time \
 Competências: C (linguagem de programação) · Java · Programação orientada a objetos (POO) · HTML · Suporte técnico · Formulários · Desenvolvimento de software · Qualidade de software · Testes · Banco de dados · C# · JavaScript
+
+Desenvolver sistemas e aplicações, determinando interface gráfica, critérios ergonômicos de 
+navegação, montagem da estrutura de banco de dados e codificação de programas, projetar, 
+implantar e realizar manutenção de sistemas e aplicações, selecionar recursos de trabalho, tais 
+como metodologias de desenvolvimento de sistemas, linguagem de programação e ferramentas 
+de desenvolvimento. Planejar etapas e ações de trabalho. 
 <br/>
 
 
